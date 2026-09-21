@@ -1,0 +1,5 @@
+101,Charlie,sales,Manager,80000.0
+102,James,HR,HR Manager,50000.0
+105,David,IT,DevOps Engineer,60000.0
+104,Vimala,IT,System Analyst,50000.0
+106,Sarah,Accounts,Manager,70000.0
