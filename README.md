@@ -1,4 +1,4 @@
-<img width="95" height="35" alt="image" src="https://github.com/user-attachments/assets/35a89ca6-a214-472c-9290-febf0eb032a0" /><img width="95" height="35" alt="image" src="https://github.com/user-attachments/assets/63e7562a-b56e-460b-9df1-da7e4a9bcbe9" /># Employee Payroll Management System
+# Employee Payroll Management System
 
 ## About the Project
 
