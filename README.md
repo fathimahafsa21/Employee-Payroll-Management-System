@@ -19,6 +19,7 @@ This application was developed as a **group project** for our software developme
 * Generate employee salary slips
 * Generate payroll summary reports
 * Save and load employee records using file handling
+* Exit the System
 
 ## Login Details
 
