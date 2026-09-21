@@ -1,4 +1,4 @@
-# Employee Payroll Management System
+<img width="95" height="35" alt="image" src="https://github.com/user-attachments/assets/35a89ca6-a214-472c-9290-febf0eb032a0" /><img width="95" height="35" alt="image" src="https://github.com/user-attachments/assets/63e7562a-b56e-460b-9df1-da7e4a9bcbe9" /># Employee Payroll Management System
 
 ## About the Project
 
@@ -92,10 +92,10 @@ Employee-Payroll-Management-System/
 | Registration Number   | Member Name |
 | --------------------- | ----------- |
 | 426779604 | M.H.F.Hafsa    |
-| Registration Number 2 | Member 2    |
-| Registration Number 3 | Member 3    |
-| Registration Number 4 | Member 4    |
-| Registration Number 5 | Member 5    |
+| 626779405 | M.R.Maryam  |
+| 626779468 | M.R.S. Fathima    |
+| 426778006 | R.H. Manaal    |
+
 
 ## Project Type
 
