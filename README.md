@@ -25,7 +25,7 @@ This application was developed as a **group project** for our software developme
 
 Use the following credentials to access the system:
 
-**Username:** ADMIN
+**Username:** admin
 **Password:** 1234
 
 > These credentials are provided for demonstration and academic purposes only.
